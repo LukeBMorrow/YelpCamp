@@ -1,0 +1,24 @@
+.navbar {
+	z-index: 1;
+}
+.thumbnail img {
+	width: 100%
+}
+.thumbnail {
+	padding:0
+}
+
+.thumbnail .caption-full {
+	padding:9px
+}
+#delete-form {
+	display: inline;
+}
+
+.centered-form {
+	width:30%; 
+	margin:30px auto; 
+}
+.centered-form button{
+	width:100%
+}
